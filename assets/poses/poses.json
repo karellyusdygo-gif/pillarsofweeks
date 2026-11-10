@@ -1,0 +1,414 @@
+{
+ "reachUp": {
+  "from": [
+   "reachUp"
+  ],
+  "cut": false,
+  "height": 1.1373,
+  "front": -0.0798,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "reachOne": {
+  "from": [
+   "reachOne"
+  ],
+  "cut": false,
+  "height": 1.1519,
+  "front": -0.215,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "clawUp": {
+  "from": [
+   "clawUp"
+  ],
+  "cut": false,
+  "height": 1.0644,
+  "front": -0.0976,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "writhe": {
+  "from": [
+   "writhe"
+  ],
+  "cut": false,
+  "height": 1.0086,
+  "front": -0.1433,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "kneelPlead": {
+  "from": [
+   "kneelPlead"
+  ],
+  "cut": false,
+  "height": 0.8171,
+  "front": -0.2043,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "despair": {
+  "from": [
+   "despair"
+  ],
+  "cut": false,
+  "height": 0.4639,
+  "front": -0.3989,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "cower": {
+  "from": [
+   "cower"
+  ],
+  "cut": false,
+  "height": 0.7218,
+  "front": -0.3571,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "sitReach": {
+  "from": [
+   "sitReach"
+  ],
+  "cut": false,
+  "height": 0.8684,
+  "front": -0.3402,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "dangle": {
+  "from": [
+   "dangle"
+  ],
+  "cut": false,
+  "height": 0.8989,
+  "front": -0.3109,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "climb": {
+  "from": [
+   "climb"
+  ],
+  "cut": false,
+  "height": 1.0695,
+  "front": -0.2048,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "hang": {
+  "from": [
+   "hang"
+  ],
+  "cut": false,
+  "height": 1.1739,
+  "front": -0.0726,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "crawl": {
+  "from": [
+   "crawl"
+  ],
+  "cut": false,
+  "height": 0.476,
+  "front": -0.5591,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "drown": {
+  "from": [
+   "drown"
+  ],
+  "cut": false,
+  "height": 1.1491,
+  "front": -0.1294,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "drownWild": {
+  "from": [
+   "drownWild"
+  ],
+  "cut": false,
+  "height": 1.1304,
+  "front": -0.1469,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "punch": {
+  "from": [
+   "punch"
+  ],
+  "cut": false,
+  "height": 0.9995,
+  "front": -0.3879,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "recoil": {
+  "from": [
+   "recoil"
+  ],
+  "cut": false,
+  "height": 1.0381,
+  "front": -0.0908,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "shove": {
+  "from": [
+   "shove"
+  ],
+  "cut": false,
+  "height": 0.994,
+  "front": -0.3816,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "stagger": {
+  "from": [
+   "stagger"
+  ],
+  "cut": false,
+  "height": 1.0067,
+  "front": -0.1136,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "grapple": {
+  "from": [
+   "grapple"
+  ],
+  "cut": false,
+  "height": 0.9681,
+  "front": -0.3782,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "dragDown": {
+  "from": [
+   "dragDown"
+  ],
+  "cut": false,
+  "height": 0.7144,
+  "front": -0.4049,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "wallClimb": {
+  "from": [
+   "wallClimb"
+  ],
+  "cut": false,
+  "height": 1.1398,
+  "front": -0.1037,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "wallReach": {
+  "from": [
+   "wallReach"
+  ],
+  "cut": false,
+  "height": 1.1398,
+  "front": -0.0964,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "wallHang": {
+  "from": [
+   "wallHang"
+  ],
+  "cut": false,
+  "height": 1.151,
+  "front": -0.0923,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "slopeClimb": {
+  "from": [
+   "slopeClimb"
+  ],
+  "cut": false,
+  "height": 0.9254,
+  "front": -0.4302,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "fallBack": {
+  "from": [
+   "fallBack"
+  ],
+  "cut": false,
+  "height": 1.0178,
+  "front": -0.3649,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "emergeWaist": {
+  "from": [
+   "reachUp"
+  ],
+  "cut": true,
+  "height": 0.6373,
+  "front": -0.0637,
+  "tris": 1200,
+  "nonManifold": 0
+ },
+ "emergeChest": {
+  "from": [
+   "clawUp"
+  ],
+  "cut": true,
+  "height": 0.4048,
+  "front": -0.071,
+  "tris": 1200,
+  "nonManifold": 0
+ },
+ "emergeWrithe": {
+  "from": [
+   "writhe"
+  ],
+  "cut": true,
+  "height": 0.4589,
+  "front": -0.1433,
+  "tris": 1200,
+  "nonManifold": 0
+ },
+ "emergeOne": {
+  "from": [
+   "reachOne"
+  ],
+  "cut": true,
+  "height": 0.5315,
+  "front": -0.215,
+  "tris": 1200,
+  "nonManifold": 0
+ },
+ "armsUp": {
+  "from": [
+   "drown"
+  ],
+  "cut": true,
+  "height": 0.2883,
+  "front": -0.13,
+  "tris": 1200,
+  "nonManifold": 0
+ },
+ "armsWild": {
+  "from": [
+   "drownWild"
+  ],
+  "cut": true,
+  "height": 0.2706,
+  "front": -0.1462,
+  "tris": 1200,
+  "nonManifold": 0
+ },
+ "trampled": {
+  "from": [
+   "prone"
+  ],
+  "cut": false,
+  "height": 0.2292,
+  "front": -1.1247,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "wallClimbL": {
+  "from": [
+   "wallClimb"
+  ],
+  "cut": false,
+  "height": 1.1398,
+  "front": -0.1037,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "duoPunch": {
+  "from": [
+   "punch",
+   "recoil",
+   true,
+   false
+  ],
+  "cut": false,
+  "height": 1.0381,
+  "front": -0.5212,
+  "tris": 2600,
+  "nonManifold": 0
+ },
+ "duoShove": {
+  "from": [
+   "shove",
+   "stagger",
+   true,
+   false
+  ],
+  "cut": false,
+  "height": 1.0067,
+  "front": -0.4468,
+  "tris": 2600,
+  "nonManifold": 0
+ },
+ "duoGrapple": {
+  "from": [
+   "grapple",
+   "grapple",
+   true,
+   false
+  ],
+  "cut": false,
+  "height": 0.9676,
+  "front": -0.5956,
+  "tris": 2600,
+  "nonManifold": 0
+ },
+ "duoPullDown": {
+  "from": [
+   "reachUp",
+   "dragDown",
+   false,
+   true
+  ],
+  "cut": false,
+  "height": 1.1373,
+  "front": -0.1329,
+  "tris": 2600,
+  "nonManifold": 0
+ },
+ "duoTrample": {
+  "from": [
+   "trample"
+  ],
+  "cut": false,
+  "height": 0.964,
+  "front": -1.1247,
+  "tris": 2600,
+  "nonManifold": 0
+ },
+ "sprawl": {
+  "from": [
+   "supine"
+  ],
+  "cut": false,
+  "height": 0.3693,
+  "front": -0.0001,
+  "tris": 1500,
+  "nonManifold": 0
+ },
+ "duoStepUp": {
+  "from": [
+   "stepup"
+  ],
+  "cut": false,
+  "height": 1.4855,
+  "front": -0.6596,
+  "tris": 2600,
+  "nonManifold": 0
+ }
+}
